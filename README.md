@@ -1,7 +1,7 @@
 # Hi there! I'm Sakshi Shukla
 ###  Data Engineer | Python | SQL | Cloud Analytics
 
-I am a Data Engineer currently based in Chennai, with over two years of experience building scalable data solutions. During my time as an Assistant Systems Engineer at Tata Consultancy Services, I specialized in ETL processes, Python, and data pipelines. I am passionate about transforming raw data into actionable insights using modern cloud architectures.
+I am a Data Engineer currently based in Chennai, with over two years of experience building scalable data solutions. During my time as Data Engineer at Tata Consultancy Services, I specialized in ETL processes, Python, and data pipelines. I am passionate about transforming raw data into actionable insights using modern cloud architectures.
 
 ---
 
