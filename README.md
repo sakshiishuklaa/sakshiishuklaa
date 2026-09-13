@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Sakshi Shukla
+###  Data Engineer | Python | SQL | Cloud Analytics
 
-<!--
-**sakshiishuklaa/sakshiishuklaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer currently based in Chennai, with over two years of experience building scalable data solutions. During my time as an Assistant Systems Engineer at Tata Consultancy Services, I specialized in ETL processes, Python, and data pipelines. I am passionate about transforming raw data into actionable insights using modern cloud architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project: End-to-End Uber Data Analytics Pipeline (GCP)
+Architected a highly scalable ETL pipeline on Google Cloud Platform to transform 100K+ Uber trip records into a Star Schema, resolving complex memory bottlenecks in the process.
+
+<img width="2024" height="1522" alt="image" src="https://github.com/user-attachments/assets/e4ac52a8-eaf3-417c-9877-aa0d212c3051" />
+
+
+[View the complete code and documentation here](https://github.com/sakshiishuklaa/Uber-Data-Engineering-GCP)
+
+---
+
+##  Technical Skills
+*   **Languages:** Python, SQL
+*   **Data Engineering:** Pandas, ETL Orchestration (Mage-AI)
+*   **Cloud & Warehousing:** Google Cloud Platform (GCP), Google BigQuery
+*   **BI & Visualization:** Looker Studio
+
+ **Let's Connect:** [https://www.linkedin.com/in/sakshi99805632/]
