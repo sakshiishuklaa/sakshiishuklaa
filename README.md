@@ -21,7 +21,7 @@ I’m a Data Engineer based in Chennai who loves turning raw, messy data into sc
 ###  What I've Built
 
 #### 1. [End-to-End Uber Data Analytics Pipeline (GCP)](https://github.com/sakshiishuklaa/Uber-Data-Engineering-GCP)
-I designed and architected a scalable ETL pipeline on GCP to process over 100K Uber trip records from NYC[cite: 1]. 
+I designed and architected a scalable ETL pipeline on GCP to process over 100K Uber trip records from NYC. 
 * **How it works:** I used **Mage** to orchestrate the workflow, transformed the raw data into a Star Schema to resolve memory bottlenecks, and loaded everything into **Google BigQuery**
 * **The result:** To bring the data to life, I built an interactive **Looker Studio** dashboard to track revenue, vendor performance, and trip distances
 
