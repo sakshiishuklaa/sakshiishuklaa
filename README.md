@@ -9,7 +9,7 @@ I’m a Data Engineer based in Chennai who loves turning raw, messy data into sc
 ### What I Work With
 
 * **Programming:** Python, Advanced SQL
-* **Cloud Infrastructure:** Google Cloud Platform (GCP), Amazon Web Services (AWS Fargate, RDS, Redshift)
+* **Cloud Infrastructure:** Amazon Web Services (AWS Lambda, RDS, Redshift), Google Cloud Platform (GCP)
 * **Data Engineering & ETL:** Google BigQuery, AWS Glue, Mage, Pipeline Orchestration
 * **AI & Machine Learning:** AI-Integrated Data Pipelines, Ollama (Local AI Deployment), Jupyter Notebooks
 * **Architecture & Streaming:** Apache Kafka, Star Schema Data Modeling, Event Streaming
