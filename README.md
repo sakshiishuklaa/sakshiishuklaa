@@ -1,52 +1,63 @@
-# Hi there! I'm Sakshi Shukla
+# Hi there, I'm Sakshi Shukla
 
-### Data Engineer | Python | SQL | Cloud & AI Analytics
-
-I’m a Data Engineer based in Chennai who loves turning raw, messy data into scalable, actionable insights. With over two years of experience—including my time as an Assistant Systems Engineer at Tata Consultancy Services I specialize in building solid ETL pipelines, writing efficient Python code, and working with modern cloud architectures. Lately, I've been really interested in finding ways to integrate AI directly into everyday data workflows.
-
----
-
-### What I Work With
-
-* **Programming:** Python, Advanced SQL
-* **Cloud Infrastructure:** Amazon Web Services (AWS Lambda, RDS, Redshift), Google Cloud Platform (GCP)
-* **Data Engineering & ETL:** Google BigQuery, AWS Glue, Mage, Pipeline Orchestration
-* **AI & Machine Learning:** AI-Integrated Data Pipelines, Ollama (Local AI Deployment), Jupyter Notebooks
-* **Architecture & Streaming:** Apache Kafka, Star Schema Data Modeling, Event Streaming
-* **Visualization & Reporting:** Looker Studio
-* **Developer Tools:** Git, GitHub, Vercel, Linux
+### **Data Engineer** 
+Building robust batch & streaming data pipelines, modern Lakehouse architectures, and cloud-native analytics solutions. Experienced in designing scalable ETL/ELT frameworks, managing distributed storage, and bridging the gap between raw data and actionable insights.
 
 ---
 
-###  What I've Built
+###  Technical Stack
 
-#### 1. [End-to-End Uber Data Analytics Pipeline (GCP)](https://github.com/sakshiishuklaa/Uber-Data-Engineering-GCP)
-I designed and architected a scalable ETL pipeline on GCP to process over 100K Uber trip records from NYC. 
-* **How it works:** I used **Mage** to orchestrate the workflow, transformed the raw data into a Star Schema to resolve memory bottlenecks, and loaded everything into **Google BigQuery**
-* **The result:** To bring the data to life, I built an interactive **Looker Studio** dashboard to track revenue, vendor performance, and trip distances
-
-  <img width="1165" height="708" alt="Screenshot 2026-09-27 at 4 53 22 AM" src="https://github.com/user-attachments/assets/07ae7841-cfbc-4023-9541-022bda4de725" />
-.
-
-
-
-#### 2. [Swiggy AI Data Engineering Pipeline](https://github.com/sakshiishuklaa/Swiggy-AI-DataEngineering-Pipeline)
-A recent project where I built an AI-integrated pipeline from scratch using Python. It is designed to process and analyze large food delivery datasets, handling everything from intelligent data routing to analytical modeling.
-
-#### 3. [Data Engineering Learning Agent](https://github.com/sakshiishuklaa/data-engineering-learning-agent)
-I wanted to automate and explore complex data engineering workflows, so I built this learning agent. It uses Python and local AI tools (Ollama) to manage pipelines and generate scripts automatically.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Scripting** | Python, SQL (Advanced / Window Functions / CTEs), PySpark |
+| **Big Data & Processing** | Apache Spark, Databricks, Delta Lake, Apache Kafka, Apache Airflow |
+| **Cloud & Warehousing** | AWS (S3, Glue, Lambda, Redshift), GCP (BigQuery, Compute Engine), Snowflake, Azure (ADLS Gen2, Databricks) |
+| **Data Modeling & ELT** | dbt, Medallion Architecture, Star Schema, SCD Type 2 |
+| **DevOps & Tools** | Docker, Git, REST APIs, Linux/zsh, Mage AI |
+| **Visualization & AI** | Looker Studio, Streamlit, Ollama (Local LLMs / RAG) |
 
 ---
 
-### Other Things I'm Working On
+###  Featured Projects
 
-* **[Portfolio Website](https://github.com/sakshiishuklaa/portfolio):** The source code for my personal space on the web, deployed on Vercel.
-* **[Full-Stack AI and Data Skills](https://github.com/sakshiishuklaa/full-stack-ai-and-data-skills):** A collection of my hands-on projects, Jupyter Notebooks, and foundational coursework as I keep expanding my AI and data skill set.
+* **[Swiggy AI Data Engineering Pipeline](https://github.com/sakshiishuklaa)** *(Snowflake, dbt, Apache Airflow, Docker, AWS S3, Streamlit)*
+  * Engineered an end-to-end food-delivery data pipeline ingesting raw JSON/CSV data from Amazon S3 into Snowflake.
+  * Implemented a Medallion Architecture using **dbt** for incremental modeling and transformation, orchestrated via Apache Airflow in Docker containers.
+  * Integrated local LLMs (Ollama) for text-to-SQL review sentiment analysis and built executive dashboards in Streamlit & Looker Studio.
+
+* **[Uber Trip ETL Pipeline](https://github.com/sakshiishuklaa)** *(GCP BigQuery, Python, Pandas, Mage AI, Compute Engine)*
+  * Processed over 100,000+ NYC TLC trip records deployed on GCP Compute Engine using Python and Pandas.
+  * Orchestrated automated batch workflows using **Mage AI** to load structured datasets into a Google BigQuery Star Schema.
+  * Visualized key operational metrics and KPIs through interactive Looker Studio dashboards.
+
+* **[Stock Trading Python Automation App](https://github.com/sakshiishuklaa)** *(Python, REST APIs, Pandas, Schedule Library)*
+  * Developed an automated stock-trading and market data ingestion tool connecting to external financial REST APIs.
+  * Handled API rate-limiting, pagination, and data cleaning before exporting structured payloads to local CSV storage.
+  * Automated periodic background execution using Python's `schedule` library.
 
 ---
 
-### Let's Talk Data!
+###  Certifications & Credentials
+
+* **Databricks Certified Data Engineer Associate** *(Databricks)*
+* **AWS Certified Solutions Architect – Associate** *(Amazon Web Services)*
+
+---
+
+###  GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshiishuklaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sakshi's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiishuklaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Connect With Me
 
 * **Portfolio:** [sakshi-shukla-porfolio.vercel.app](https://sakshi-shukla-porfolio.vercel.app/)
-* **LinkedIn:** [in/sakshiishuklaa](https://linkedin.com/in/sakshiishuklaa)
-* **Email:** [sakshishukla.tech@gmail.com](mailto:sakshishukla.tech@gmail.com)
+* **LinkedIn:** [linkedin.com/in/sakshiiishuklaa](https://www.linkedin.com/in/sakshiiishuklaa)
+* **Medium Blog:** [sssakshi034 on Medium](https://medium.com/@sssakshi034)
+* **Email:** sakshishukla.tech@gmail.com
