@@ -59,5 +59,4 @@ Building robust batch & streaming data pipelines, modern Lakehouse architectures
 
 * **Portfolio:** [sakshi-shukla-porfolio.vercel.app](https://sakshi-shukla-porfolio.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/sakshiiishuklaa](https://www.linkedin.com/in/sakshiiishuklaa)
-* **Medium Blog:** [sssakshi034 on Medium](https://medium.com/@sssakshi034)
 * **Email:** sakshishukla.tech@gmail.com
