@@ -44,17 +44,6 @@ Building robust batch & streaming data pipelines, modern Lakehouse architectures
 
 ---
 
-###  GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshiishuklaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sakshi's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiishuklaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### Connect With Me
 
 * **Portfolio:** [sakshi-shukla-porfolio.vercel.app](https://sakshi-shukla-porfolio.vercel.app/)
